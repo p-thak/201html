@@ -1,0 +1,35 @@
+    1  ls
+    2  cd htdocs
+    3  ls
+    4  vim 201.html
+    5  ls
+    6  cd htdocs
+    7  ls
+    8  history
+    9  history > geeber.txt
+   10  vi geeber.txt
+   11  pwd
+   12  ls
+   13  cd 201html
+   14  ls
+   15  git add .
+   16  git comment -m 'First Commit'
+   17  get commit -m 'First Commit'
+   18  git commit -m 'First Commit'
+   19  git remote add origin https://github.com/yourUserName/projectname.git
+   20  git push -u origin master
+   21  git remote add origin https://github.com/p-thak/201html.git
+   22  git config --global user.email "cpathakis@gmail.com"
+   23  git config --global user.name "clarkPathakis"
+   24  git remote add origin https://github.com/p-thak/201html.git
+   25  get config --global user.name clarkPathakis
+   26  git config --global user.name clarkPathakis
+   27  git commit -m 'First Commit'
+   28  git remote add origin https://github.com/p-thak/201html.git
+   29  git remote -v
+   30  git push -u origin master
+   31  git remote set-url orign https://github.com/p-thak/201html.git
+   32  git remote set-url origin https://github.com/p-thak/201html.git
+   33  git push -u origin master
+   34  history
+   35  history > history.txt
